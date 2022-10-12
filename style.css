@@ -53,7 +53,7 @@
 }
 
 
-#all {
+#container {
   max-width:1650px;
   min-width: 720px;
   margin: 0px auto 10px auto;
